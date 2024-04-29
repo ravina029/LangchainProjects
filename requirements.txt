@@ -1,5 +1,11 @@
-langchain
-openai
-huggingface_hub
-python-dotenv
-streamlit
+langchain==0.1.16
+openai==1.16.2
+huggingface_hub==0.22.2
+python-dotenv==1.0.1
+streamlit==1.33.0
+sentence-transformers==2.6.1
+uvicorn==0.29.0
+ctransformers== 0.2.27
+python-box==7.1.1
+tiktoken==0.6.0
+PyPDF2==3.0.1
